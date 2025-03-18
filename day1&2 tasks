@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <section style="background-color: burlywood; font-size: xx-large;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <div>
+        <u>HTML</u>(HyperText Markup Language) is essential because it forms the foundation of web development.<br>
+         It provides the basic structure for web pages, allowing content such as text, images,<br>
+        videos, and links to be organized and displayed in a browser. HTML uses a system of elements<br>
+        (tags) to define different parts of a webpage, such as headings (h1), paragraphs (p),<br>
+        links (a), and images (img>).HTML ensures that web pages are properly formatted, making <br>
+        them accessible and readable across different devices and browsers. It also supports the <br>
+        integration of CSS (for styling) and JavaScript (for interactivity), enhancing user experience <br>
+        and functionality. HTML5, the latest version, introduced new elements like header, footer,<br>
+        and article, improving the semantic structure of web.<br>
+    </div>
+    </section>
+    <hr>
+    <hr>
+    <section style="background-color: burlywood; font-size: xx-large;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+        <u>THE FIVE WEBSITES IN WHICH "HTML" IS USED:</u><br>
+        In Amazon HTML is used for attract the customers and to design it<br>
+        <a href="https://www.amazon.in/" target="_blank">https://www.amazon.in/</a><br>
+        In Flipkart HTML is used for attarct and to communicate with the users<br>
+        <a herf="https://www.flipkart.com//" target="_blank">https://www.flipkart.com//</a><br>
+        In Google for designing and for to communicate with the users<br>
+        <a href="https://www.google.co.in/" target="_blank">https://www.google.co.in/</a>
+    </section>
+</body>
+</html>
