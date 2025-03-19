@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body style="background-color: palevioletred;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: xx-large;font-weight: bolder;">
+    <section>
+        <h1>PURPOSE OF <U style="background-color: brown;">HTML</U> TAG:</h1>
+        <b>1.Defines the Document Type:</b><br>
+        The html tag tells the browser that the document is written in HTML.<br>
+        It helps browsers interpret and render the content correctly.<br><br>
+        <b>2.Structural Container:</b><br>
+        All other HTML elements must be nested within the <html> tag.<br>
+        It acts as the parent element for the <head> and <body> sections.<br><br>
+        <b>3.Language Declaration:</b><br>
+        The lang attribute specifies the language of the document, which helps with:<br>
+        Accessibility (screen readers).<br>
+        Search engine indexing and language detection.<br>
+    </section>
+    <section>
+        <h2>PURPOSE OF <U style="background-color: brown;">HEAD</U> TAG:</h2><br>
+        The head tag in HTML serves as a container for metadata and other important information<br>
+        about the document that is not displayed directly on the webpage. It provides essential<br>
+        instructions to the browser and search engines about how to render and handle the document.<br>
+    </section>
+    <section>
+        <h3>PURPOSE OF <U style="background-color: brown;">BODY</U> TAG:</h3>
+        1.Holds Visible Content:<br>
+        *Contains all the content that users see and interact with, such as:<br>
+        *Text<br>
+        *Images<br>
+        *Videos<br>
+        *Links<br>
+        *Buttons<br>
+        *Defines the Structure of the Page<br>
+        The body tag organizes the visual layout using structural elements like:<br>
+        header, nav, section, article, footer<br>
+        div for grouping content<br><br>
+        Holds Interactive Elements:<br>
+       <em> Contains interactive elements like,</em>
+        form tag – For user input<br>
+        button tag – For user actions<br>
+        a tag – For navigation<br>
+        
+    </section>
+</body>
+</html>
